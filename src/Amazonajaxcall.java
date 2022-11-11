@@ -24,7 +24,7 @@ public class Amazonajaxcall {
 	        
 	        System.out.println("US change");
 
-	        
+	        System.out.println("Asia change 126 ");
 
 	}
 
