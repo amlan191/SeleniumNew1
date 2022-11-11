@@ -27,6 +27,10 @@ public class Amazonajaxcall {
 	        System.out.println("Asia change 126 ");
 	        
 	        System.out.println("branch change");
+	        
+	        
+	        System.out.println("branch change asia");
+
 	        System.out.println("Asia change 126 ");
 
 	}
