@@ -19,6 +19,9 @@ public class Amazonajaxcall {
 			
 	        a.moveToElement(driver.findElement(By.id("twotabsearchtextbox"))).click().keyDown(Keys.SHIFT).sendKeys("iphone").doubleClick().contextClick().build().perform();
 			
+	        System.out.println("Asia change");
+	        System.out.println("Asia change2");
+
 	}
 
 }
